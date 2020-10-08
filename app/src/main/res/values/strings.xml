@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Entrega_1.1</string>
+    <string name="titulo">Jesuitas - Marcos Asensio</string>
+    <string name="texto_subhead">Centro Sagrado Corazón Logroño</string>
+    <string name="texto_location">Duques de Nájera 18, 26002 Logroño</string>
+    <string name="texto_mail">csc@jesuitasrioja.org</string>
+    <string name="texto_numtel">941 22 17 00</string>
+</resources>

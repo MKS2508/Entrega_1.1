@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ancho_iconos">60dp</dimen>
+    <dimen name="padding_textos_abajo">20dp</dimen>
+    <dimen name="altura_textos_abajo">60dp</dimen>
+    <dimen name="altura_iconos">60dp</dimen>
+    <dimen name="padding_iconos">15dp</dimen>
+    <dimen name="ancho_logo">140dp</dimen>
+    <dimen name="alto_logo">140dp</dimen>
+    <dimen name="padding_titulo">10dp</dimen>
+    <dimen name="alto_imggrande">220dp</dimen>
+    <dimen name="margenbutton">16dp</dimen>
+</resources>
